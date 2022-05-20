@@ -1,5 +1,9 @@
 # appleitems
+## demo link:
+```
+https://guileless-dragon-5d7066.netlify.app/
 
+```
 ## Project setup
 ```
 npm install
